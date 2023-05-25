@@ -9,7 +9,7 @@ public class CustomExceptionExecuter {
 		String id = sc.nextLine();
 		String password = sc.nextLine();
 		try {
-		if (id.equals("kolinovina@gmail.com") && password.equals("Koli@123")) {
+		if (id.equals("smitalbhoir777@gmail.com") && password.equals("Bhoir@123")) {
 			System.out.println("Login credentials are match");
 		}
 		else {
